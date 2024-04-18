@@ -1,2 +1,1 @@
-Testing = "Testing"
-Testing = "New Testing"
+new_var ="Deleted testing variable and added this"
